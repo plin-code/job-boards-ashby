@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/plin-code/job-boards-ashby/main/art/banner.png" alt="Job Boards Ashby">
+</p>
+
 # Job Boards Ashby
 
 Ashby connector for the [plin-code](https://github.com/plin-code) job boards family. It reads the public Ashby posting API, which needs no credentials and returns a whole board in one request:
